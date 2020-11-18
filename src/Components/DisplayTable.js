@@ -34,7 +34,7 @@ const DisplayTable = props => {
                       {nutrient.value} {nutrient.unit}
                     </td>
                     <td>{nutrient.gm}</td>
-                    <td>{nutrient.gm}</td>
+                    <td>{nutrient.nutrient_id}</td>
                   </tr>
                 );
               })}
