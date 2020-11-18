@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Food-Nutrition-App/static/js/main.70bb19e7.chunk.js",
+    "main.js.map": "/Food-Nutrition-App/static/js/main.70bb19e7.chunk.js.map",
+    "runtime-main.js": "/Food-Nutrition-App/static/js/runtime-main.f52a0bec.js",
+    "runtime-main.js.map": "/Food-Nutrition-App/static/js/runtime-main.f52a0bec.js.map",
+    "static/css/2.f2241e22.chunk.css": "/Food-Nutrition-App/static/css/2.f2241e22.chunk.css",
+    "static/js/2.73d1dd52.chunk.js": "/Food-Nutrition-App/static/js/2.73d1dd52.chunk.js",
+    "static/js/2.73d1dd52.chunk.js.map": "/Food-Nutrition-App/static/js/2.73d1dd52.chunk.js.map",
+    "index.html": "/Food-Nutrition-App/index.html",
+    "static/css/2.f2241e22.chunk.css.map": "/Food-Nutrition-App/static/css/2.f2241e22.chunk.css.map",
+    "static/js/2.73d1dd52.chunk.js.LICENSE.txt": "/Food-Nutrition-App/static/js/2.73d1dd52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f52a0bec.js",
+    "static/css/2.f2241e22.chunk.css",
+    "static/js/2.73d1dd52.chunk.js",
+    "static/js/main.70bb19e7.chunk.js"
+  ]
+}
