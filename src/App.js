@@ -55,8 +55,10 @@ function App() {
   // Handles the SEARCH button onClick.
   // compiles the URLSearchParams and sends get request to backend.
   // Sets errorMessage to empty string
+  // **To fetch data from nutrition-backend that's locally run on localhost, uncomment line 60 & comment out line 61.
   const onSearch = () => {
-    const url = 'http://localhost:3001/foods?';
+    // const url = 'http://localhost:3001/foods?';
+    const url = 'https://blooming-lowlands-24685.herokuapp.com/foods?';
     const query = new URLSearchParams({
       nutrient: nutrientQueryValue,
       min: minValue,

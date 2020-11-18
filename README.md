@@ -6,5 +6,6 @@ This app displays a detailed list of foods filtered according to the search crit
 
 Made with React.
 
-To run:
+To run locally:
+In order to fetch data from nutrition-backend app that's locally run on localhost, uncomment line 60 & comment out line 61 to swap URL address.
 npm install > npm start
